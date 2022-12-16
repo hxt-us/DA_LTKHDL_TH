@@ -1,6 +1,7 @@
-# DA_LTKHDL_TH
- Lập trình Khoa học dữ liệu - Thực hành
-
+# DA_LTKHDL_TH_NHOM_03
+Lập trình Khoa học dữ liệu - Thực hành
+Học Kì I - Năm học: 2022 -2023
+Nhóm: 03
 ## Thành viên
 | MSSV  | Họ tên | Email |
 | ------------- | ------------- | ------------- |
